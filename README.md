@@ -166,7 +166,7 @@ All services must use this same network.
 
 ---
 
-## 📚 Bow-Tying Voice for Students
+## 📚 Bow-Tying Voice for you ;) 
 
 > “You’re building a real-world backend. Every service has its identity, communicates securely, and trusts the central Auth Service to verify user legitimacy. No tokens in URL or UI—just clean efficient backend devotion. Each microservice is autonomous yet cohesive, scalable, and container-ready.”
 
