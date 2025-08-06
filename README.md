@@ -1,1 +1,1 @@
-# -ZalandoLite-
+# ZalandoLite
